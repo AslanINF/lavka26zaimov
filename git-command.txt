@@ -1,0 +1,13 @@
+--- upload file ---
+
+git add *
+git commit -m 'message'
+gith push
+
+---
+git pull
+---
+
+--- config
+git config --global user.name 'Aslan'
+git config --global user.email 'aslan_s_karabiberov@zaimov-pl.com'
